@@ -1,6 +1,7 @@
-# tripadvisor
+# Tripadvisor Scraper
 
-What it does:
+
+## What it does:
 
 > Scrape all pages of the feed page, getting 30 result per page (if 50 pages, 30*50 = 1500). 
 > Goes to each restaurant page individually, click the website link to retrieve the domain url
@@ -15,14 +16,16 @@ What it does:
         "url": "https://smokestak.co.uk/"
     }
 
-How to use:
+
+## How to use:
 
 > python3.6 tripadvisor.py https://www.tripadvisor.co.uk/Restaurants-g186338-c6-London_England.html
-> data will be exported in json inside data.json
+
+Data will be exported in json inside data.json
 
 
-DISCLAIMER / WARNING !
+## DISCLAIMER / WARNING !
 
 This repository/project is intended for Educational Purposes ONLY. It is not intended to be used for any purpose other than learning, so please do not use it for any other reason than to learn about DOM scraping.
 
-DISCLAIMER / WARNING !
+
