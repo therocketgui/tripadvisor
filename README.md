@@ -20,4 +20,9 @@ How to use:
 > python3.6 tripadvisor.py https://www.tripadvisor.co.uk/Restaurants-g186338-c6-London_England.html
 > data will be exported in json inside data.json
 
-Warnings: Scraping data is not legal. This is only for practice purposes. You're responsible for whatever you do with this script...
+
+DISCLAIMER / WARNING !
+
+This repository/project is intended for Educational Purposes ONLY. It is not intended to be used for any purpose other than learning, so please do not use it for any other reason than to learn about DOM scraping.
+
+DISCLAIMER / WARNING !
